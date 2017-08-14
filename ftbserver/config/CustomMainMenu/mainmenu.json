@@ -1,0 +1,318 @@
+{
+    "images":
+    {
+		"modpack":
+		{
+            "image" : "mainmenu:modpack.png",
+            "posX" : -125,
+            "posY" : -150,
+            "width" : 250,
+            "height" : 150,
+            "alignment" : "center"
+		}
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : -100,
+            "posY" : -25,
+            "width" : 98,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:shortbutton.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : 2,
+            "posY" : -25,
+            "width" : 98,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:shortbutton.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : -100,
+            "posY" : -2,
+            "width" : 98,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:shortbutton.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        }, 		
+        "mods":
+        {
+            "text" : "Mods",
+            "posX" : 2,
+            "posY" : -2,
+            "width" : 98,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:shortbutton.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+        "support":
+        {
+            "text" : "Support",
+            "posX" : -100,
+            "posY" : 21,
+            "width" : 98,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:shortbutton.png",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://forum.feed-the-beast.com/forum/ftb-beyond.261/"
+            }
+        },				
+        "changelog":
+        {
+            "text" : "Changelogs",
+            "posX" : 2,
+            "posY" : 21,
+            "width" : 98,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:shortbutton.png",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://www.feed-the-beast.com/projects/ftb-beyond/files"
+            }
+        },		
+		"forums":
+        {
+            "text" : "Forums",
+            "posX" : -100,
+            "posY" : 44,
+            "width" : 98,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:shortbutton.png",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "http://forum.feed-the-beast.com/forum/"
+            }
+        },		
+        "server files":
+        {
+            "text" : "Server Files",
+            "posX" : 2,
+            "posY" : 44,
+            "width" : 98,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:shortbutton.png",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://www.feed-the-beast.com/projects/ftb-beyond/files"
+            }
+        },       
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : -100,
+            "posY" : 67,
+            "width" : 200,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:longbutton.png",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },			
+        "language":
+        {
+            "text" : "",
+            "posX" : 104,
+            "posY" : -25,
+            "width" : 20,
+            "height" : 20,
+			"tooltip": "Language",
+			"alignment" : "center",
+			"imageWidth": "40",
+			"imageHeight": "40",
+			"texture" : "mainmenu:lang.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+        "ftb website":
+        {
+            "text" : "",
+            "posX" : 104,
+            "posY" : -2,
+            "width" : 20,
+            "height" : 20,
+			"alignment" : "center",
+			"tooltip": "FTB Site",
+			"texture" : "mainmenu:web.png",
+			"imageWidth": "40",
+			"imageHeight": "40",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "http://www.feed-the-beast.com/"
+            }
+        },
+        "creeperhost":
+        {
+            "text" : "",
+            "posX" : 104,
+            "posY" : 21,
+            "width" : 20,
+            "height" : 20,
+			"alignment" : "center",
+			"tooltip": "Get a Server Today!",
+			"texture" : "mainmenu:creeperhost.png",
+			"imageWidth": "40",
+			"imageHeight": "40",
+            "wrappedButton" : 30051988
+        },
+        "alpha mods":
+        {
+            "text" : "Alpha Mod Issue Trackers",
+            "posX" : -100,
+            "posY" : 107,
+            "width" : 200,
+            "height" : 20,
+			"alignment" : "center",
+			"normalTextColor" : 16768000,
+			"texture" : "mainmenu:longbutton.png",
+            "action" : 
+            {
+                "type" : "openGui",
+				"gui" : "custom.alphamods"
+            }
+        },        
+        "refresh":
+        {
+            "text" : "",
+            "posX" : -20,
+            "posY" : 0,
+            "width" : 20,
+            "height" : 20,
+			"alignment" : "top_right",
+            "texture" : "mainmenu:refresh.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        }	
+    },
+    
+    "labels":
+    {
+        "mojang":
+        {
+            "text" : "Copyright Mojang AB",
+            "posX" : -75,
+            "posY" : -7,
+			"fontSize" : .7,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_right"
+        },
+		"modpack":{
+			"text" : "FTB Beyond",
+            "posX" : 3,
+            "posY" : -28,
+			"fontSize" : .7,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_left"
+		},
+		"forge":{
+			"text" : "Forge #forgeversion#",
+            "posX" : 3,
+            "posY" : -21,
+			"fontSize" : .7,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_left"
+		},
+		"modsloaded":{
+			"text" : "#modsloaded# Mods Loaded",
+            "posX" : 3,
+            "posY" : -14,
+			"fontSize" : .7,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_left"
+		},
+		"modsactive":{
+			"text" : "#modsactive# Mods Active",
+            "posX" : 3,
+            "posY" : -7,
+			"fontSize" : .7,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_left"
+		},
+		"newsLine1":{
+			"text" : "Expert Mode coming soon on Minecraft 1.11",
+            "posX" : 10,
+            "posY" : 10,
+			"fontSize" : 1.3,
+			"color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "top_left"
+		},
+		"newsLine2":{
+			"text" : "Warning: This pack contains Alpha Mods!",
+            "posX" : -100,
+            "posY" : 93,
+			"fontSize" : 1,
+            "color" : 16768000,
+			"hoverColor" : 16768000,
+            "alignment" : "center"
+		},
+		"newsLine3":{
+			"text" : "",
+            "posX" : 10,
+            "posY" : 38,
+			"fontSize" : 1.3,
+            "color" : -1,
+			"hoverColor" : 10248780,
+            "alignment" : "top_left"
+		}
+    },
+    
+    "other":
+    {
+		"background":
+		{
+			"image" : "mainmenu:background.png",
+			"mode" : "fill"
+		}
+    }
+}

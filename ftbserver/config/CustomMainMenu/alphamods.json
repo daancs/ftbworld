@@ -1,0 +1,176 @@
+{
+    "buttons":
+    {
+        "ftb support":
+        {
+            "text" : "FTB General Support",
+            "posX" : -203,
+            "posY" : -100,
+            "width" : 200,
+            "height" : 20,
+			"normalTextColor" : 16768000,
+			"alignment" : "center",
+			"texture" : "mainmenu:longbutton.png",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://support.feed-the-beast.com/"
+            }
+        },
+        "modpack support":
+        {
+            "text" : "FTB Beyond Modpack Support",
+            "posX" : 3,
+            "posY" : -100,
+            "width" : 200,
+            "height" : 20,
+			"normalTextColor" : 16768000,
+			"alignment" : "center",
+			"texture" : "mainmenu:longbutton.png",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://support.feed-the-beast.com/"
+            }
+        },		
+        "mod1":
+        {
+            "text" : "AgriCraft",
+            "posX" : -203,
+            "posY" : -50,
+            "width" : 200,
+            "height" : 20,
+			"normalTextColor" : 16768000,
+			"alignment" : "center",
+			"texture" : "mainmenu:longbutton.png",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://github.com/AgriCraft/AgriCraft/issues"
+            }
+        },
+        "mod2":
+        {
+            "text" : "AE2",
+            "posX" : 3,
+            "posY" : -50,
+            "width" : 200,
+            "height" : 20,
+			"normalTextColor" : 16768000,
+			"alignment" : "center",
+			"texture" : "mainmenu:longbutton.png",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://github.com/AppliedEnergistics/Applied-Energistics-2/issues"
+            }
+        },
+        "mod3":
+        {
+            "text" : "AE2 Stuff",
+            "posX" : -203,
+            "posY" : -25,
+            "width" : 200,
+            "height" : 20,
+			"normalTextColor" : 16768000,
+			"alignment" : "center",
+			"texture" : "mainmenu:longbutton.png",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://github.com/bdew/ae2stuff/issues"
+            }
+        },
+        "mod4":
+        {
+            "text" : "Forestry",
+            "posX" : 3,
+            "posY" : -25,
+            "width" : 200,
+            "height" : 20,
+			"normalTextColor" : 16768000,
+			"alignment" : "center",
+			"texture" : "mainmenu:longbutton.png",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://github.com/ForestryMC/ForestryMC/issues?q=is%3Aissue"
+            }
+        },
+        "mod5":
+        {
+            "text" : "Funky Locomotion",
+            "posX" : -203,
+            "posY" : -0,
+            "width" : 200,
+            "height" : 20,
+			"normalTextColor" : 16768000,
+			"alignment" : "center",
+			"texture" : "mainmenu:longbutton.png",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://github.com/rwtema/FunkyLocomotion/issues"
+            }
+        },
+        "back to main menu":
+        {
+            "text" : "Back to Main Menu",
+            "posX" : -100,
+            "posY" : 107,
+            "width" : 200,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:longbutton.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        },		
+        "refresh":
+        {
+            "text" : "",
+            "posX" : -20,
+            "posY" : 0,
+            "width" : 20,
+            "height" : 20,
+			"alignment" : "top_right",
+            "texture" : "mainmenu:refresh.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        }	
+    },
+    
+    "labels":
+    {
+		"info1":{
+			"text" : "Feed The Beast Issue Trackers:",
+            "posX" : -110,
+            "posY" : -120,
+			"fontSize" : 1.3,
+			"color" : 65535,
+			"hoverColor" : 65535,
+            "alignment" : "center"
+		},
+		"info2":{
+			"text" : "Alpha Mod's Issue Trackers:",
+            "posX" : -100,
+            "posY" : -70,
+			"fontSize" : 1.3,
+            "color" : 65535,
+			"hoverColor" : 65535,
+            "alignment" : "center"
+		}
+    },
+    
+    "other":
+    {
+		"background":
+		{
+			"image" : "mainmenu:background.png",
+			"mode" : "fill"
+		}
+    }
+}

@@ -1,0 +1,1485 @@
+{
+  "Woot:none:Witch": {
+    "mob": "Woot:none:Witch",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 6,
+        "drops": [
+          {
+            "item": "minecraft:gunpowder:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:sugar:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:glass_bottle:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "minecraft:redstone:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "xreliquary:witch_hat:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:stick:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:potion:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "Woot:none:Bat": {
+    "mob": "Woot:none:Bat",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 5092,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "Woot:none:CaveSpider": {
+    "mob": "Woot:none:CaveSpider",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 18,
+        "drops": [
+          {
+            "item": "minecraft:string:0",
+            "count": 15,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 11
+              },
+              {
+                "stack_size": 2,
+                "weight": 4
+              }
+            ]
+          },
+          {
+            "item": "minecraft:spider_eye:0",
+            "count": 4,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 4
+              }
+            ]
+          },
+          {
+            "item": "xreliquary:mob_ingredient:2",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "minecraft:web:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "Woot:none:Slime": {
+    "mob": "Woot:none:Slime",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 61,
+        "drops": [
+          {
+            "item": "minecraft:slime_ball:0",
+            "count": 39,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 21
+              },
+              {
+                "stack_size": 1,
+                "weight": 18
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "Woot:none:thermalfoundation.basalz": {
+    "mob": "Woot:none:thermalfoundation.basalz",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 13,
+        "drops": [
+          {
+            "item": "thermalfoundation:material:770",
+            "count": 8,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 8
+              }
+            ]
+          },
+          {
+            "item": "thermalfoundation:material:2052",
+            "count": 5,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "Woot:none:Zombie": {
+    "mob": "Woot:none:Zombie",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 1351,
+        "drops": [
+          {
+            "item": "minecraft:rotten_flesh:0",
+            "count": 905,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 466
+              },
+              {
+                "stack_size": 1,
+                "weight": 439
+              }
+            ]
+          },
+          {
+            "item": "minecraft:iron_ingot:0",
+            "count": 4,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 4
+              }
+            ]
+          },
+          {
+            "item": "xreliquary:mob_ingredient:6",
+            "count": 27,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 27
+              }
+            ]
+          },
+          {
+            "item": "minecraft:skull:2",
+            "count": 29,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 29
+              }
+            ]
+          },
+          {
+            "item": "minecraft:potato:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "minecraft:carrot:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "Woot:none:Sheep": {
+    "mob": "Woot:none:Sheep",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 109,
+        "drops": [
+          {
+            "item": "minecraft:wool:0",
+            "count": 104,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 104
+              }
+            ]
+          },
+          {
+            "item": "minecraft:mutton:0",
+            "count": 107,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 59
+              },
+              {
+                "stack_size": 2,
+                "weight": 48
+              }
+            ]
+          },
+          {
+            "item": "minecraft:wool:15",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:wool:12",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "Woot:none:Cow": {
+    "mob": "Woot:none:Cow",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 80,
+        "drops": [
+          {
+            "item": "minecraft:beef:0",
+            "count": 80,
+            "weights": [
+              {
+                "stack_size": 3,
+                "weight": 27
+              },
+              {
+                "stack_size": 2,
+                "weight": 29
+              },
+              {
+                "stack_size": 1,
+                "weight": 24
+              }
+            ]
+          },
+          {
+            "item": "minecraft:leather:0",
+            "count": 52,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 25
+              },
+              {
+                "stack_size": 2,
+                "weight": 27
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "Woot:none:Enderman": {
+    "mob": "Woot:none:Enderman",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 7,
+        "drops": [
+          {
+            "item": "minecraft:ender_pearl:0",
+            "count": 5,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 5
+              }
+            ]
+          },
+          {
+            "item": "minecraft:grass:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "Woot:none:LavaSlime": {
+    "mob": "Woot:none:LavaSlime",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 27,
+        "drops": [
+          {
+            "item": "thermalfoundation:material:771",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "Woot:none:natura.imp": {
+    "mob": "Woot:none:natura.imp",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 2,
+        "drops": [
+          {
+            "item": "natura:materials:6",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 1
+              },
+              {
+                "stack_size": 3,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "natura:edibles:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "Woot:none:thermalfoundation.blizz": {
+    "mob": "Woot:none:thermalfoundation.blizz",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 1,
+        "drops": [
+          {
+            "item": "minecraft:snowball:0",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "Woot:none:Chicken": {
+    "mob": "Woot:none:Chicken",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 101,
+        "drops": [
+          {
+            "item": "minecraft:chicken:0",
+            "count": 101,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 101
+              }
+            ]
+          },
+          {
+            "item": "minecraft:feather:0",
+            "count": 63,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 33
+              },
+              {
+                "stack_size": 2,
+                "weight": 30
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "Woot:none:Pig": {
+    "mob": "Woot:none:Pig",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 29,
+        "drops": [
+          {
+            "item": "minecraft:porkchop:0",
+            "count": 29,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 14
+              },
+              {
+                "stack_size": 1,
+                "weight": 7
+              },
+              {
+                "stack_size": 3,
+                "weight": 8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "Woot:none:PigZombie": {
+    "mob": "Woot:none:PigZombie",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 1,
+        "drops": [
+          {
+            "item": "minecraft:rotten_flesh:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:gold_nugget:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "Woot:none:Squid": {
+    "mob": "Woot:none:Squid",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 37,
+        "drops": [
+          {
+            "item": "minecraft:dye:0",
+            "count": 37,
+            "weights": [
+              {
+                "stack_size": 3,
+                "weight": 9
+              },
+              {
+                "stack_size": 2,
+                "weight": 17
+              },
+              {
+                "stack_size": 1,
+                "weight": 11
+              }
+            ]
+          },
+          {
+            "item": "harvestcraft:calamarirawitem:0",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "Woot:none:Skeleton": {
+    "mob": "Woot:none:Skeleton",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 1040,
+        "drops": [
+          {
+            "item": "minecraft:arrow:0",
+            "count": 695,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 354
+              },
+              {
+                "stack_size": 1,
+                "weight": 341
+              }
+            ]
+          },
+          {
+            "item": "minecraft:bone:0",
+            "count": 668,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 338
+              },
+              {
+                "stack_size": 2,
+                "weight": 330
+              }
+            ]
+          },
+          {
+            "item": "minecraft:skull:0",
+            "count": 30,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 30
+              }
+            ]
+          },
+          {
+            "item": "xreliquary:mob_ingredient:0",
+            "count": 29,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 29
+              }
+            ]
+          },
+          {
+            "item": "minecraft:bow",
+            "count": 17,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 17
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "Woot:none:Ghast": {
+    "mob": "Woot:none:Ghast",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 22,
+        "drops": [
+          {
+            "item": "minecraft:ghast_tear:0",
+            "count": 10,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 10
+              }
+            ]
+          },
+          {
+            "item": "minecraft:gunpowder:0",
+            "count": 14,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 6
+              },
+              {
+                "stack_size": 1,
+                "weight": 8
+              }
+            ]
+          },
+          {
+            "item": "thermalfoundation:material:771",
+            "count": 4,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 4
+              }
+            ]
+          },
+          {
+            "item": "xreliquary:mob_ingredient:3",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "Woot:none:Blaze": {
+    "mob": "Woot:none:Blaze",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 57,
+        "drops": [
+          {
+            "item": "minecraft:blaze_rod:0",
+            "count": 28,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 28
+              }
+            ]
+          },
+          {
+            "item": "xreliquary:mob_ingredient:7",
+            "count": 6,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 6
+              }
+            ]
+          },
+          {
+            "item": "thermalfoundation:material:771",
+            "count": 6,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "Woot:none:Spider": {
+    "mob": "Woot:none:Spider",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 50,
+        "drops": [
+          {
+            "item": "minecraft:spider_eye:0",
+            "count": 9,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 9
+              }
+            ]
+          },
+          {
+            "item": "minecraft:string:0",
+            "count": 34,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 16
+              },
+              {
+                "stack_size": 2,
+                "weight": 18
+              }
+            ]
+          },
+          {
+            "item": "minecraft:web:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "xreliquary:mob_ingredient:2",
+            "count": 5,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "Woot:none:Rabbit": {
+    "mob": "Woot:none:Rabbit",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 2,
+        "drops": [
+          {
+            "item": "minecraft:rabbit_hide:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:rabbit_foot:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "Woot:none:Creeper": {
+    "mob": "Woot:none:Creeper",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 94,
+        "drops": [
+          {
+            "item": "minecraft:gunpowder:0",
+            "count": 66,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 30
+              },
+              {
+                "stack_size": 2,
+                "weight": 36
+              }
+            ]
+          },
+          {
+            "item": "xreliquary:mob_ingredient:3",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 3
+              }
+            ]
+          },
+          {
+            "item": "minecraft:skull:4",
+            "count": 5,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "Woot:none:Wolf": {
+    "mob": "Woot:none:Wolf",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 4,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "Woot:none:Silverfish": {
+    "mob": "Woot:none:Silverfish",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 19,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "Woot:none:embers.ancientGolem": {
+    "mob": "Woot:none:embers.ancientGolem",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 9,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "Woot:wither:Skeleton": {
+    "mob": "Woot:wither:Skeleton",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 5,
+        "drops": [
+          {
+            "item": "darkutils:material:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "tconstruct:materials:17",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:coal:0",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 3
+              }
+            ]
+          },
+          {
+            "item": "minecraft:bone:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              },
+              {
+                "stack_size": 2,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "thermalfoundation:material:771",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "xreliquary:mob_ingredient:1",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "minecraft:skull:1",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "Woot:none:Villager": {
+    "mob": "Woot:none:Villager",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 2,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "Woot:none:tconstruct.blueslime": {
+    "mob": "Woot:none:tconstruct.blueslime",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 475,
+        "drops": [
+          {
+            "item": "tconstruct:edible:1",
+            "count": 173,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 91
+              },
+              {
+                "stack_size": 1,
+                "weight": 82
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  }
+}
