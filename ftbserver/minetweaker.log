@@ -36,15 +36,15 @@
 [SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
 [SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
 [SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Inscriber Silicon Press
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <appliedenergistics2:material:19>: minetweaker.mc1102.formatting.FormattedMarkupString@7d3e3890
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <appliedenergistics2:material:19>: minetweaker.mc1102.formatting.FormattedMarkupString@73a1c15a
 [SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Inscriber Calculation Press
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <appliedenergistics2:material:13>: minetweaker.mc1102.formatting.FormattedMarkupString@637bcb1b
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <appliedenergistics2:material:13>: minetweaker.mc1102.formatting.FormattedMarkupString@19d05829
 [SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Inscriber Logic Press
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <appliedenergistics2:material:15>: minetweaker.mc1102.formatting.FormattedMarkupString@289626d2
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <appliedenergistics2:material:15>: minetweaker.mc1102.formatting.FormattedMarkupString@5e768af5
 [SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Inscriber Engineering Press
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <appliedenergistics2:material:14>: minetweaker.mc1102.formatting.FormattedMarkupString@362385c4
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <appliedenergistics2:material:14>: minetweaker.mc1102.formatting.FormattedMarkupString@726dff03
 [SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <appliedenergistics2:sky_compass>: minetweaker.mc1102.formatting.FormattedMarkupString@53d5fffc
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <appliedenergistics2:sky_compass>: minetweaker.mc1102.formatting.FormattedMarkupString@311338f
 [SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Sky Stone
 [SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
 [SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
@@ -331,15 +331,15 @@
 [SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
 [SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
 [SERVER_STOPPING][SERVER][INFO] Removing recipe for Sky Stone
-[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <appliedenergistics2:sky_compass>: minetweaker.mc1102.formatting.FormattedMarkupString@53d5fffc
+[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <appliedenergistics2:sky_compass>: minetweaker.mc1102.formatting.FormattedMarkupString@311338f
 [SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
-[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <appliedenergistics2:material:14>: minetweaker.mc1102.formatting.FormattedMarkupString@362385c4
+[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <appliedenergistics2:material:14>: minetweaker.mc1102.formatting.FormattedMarkupString@726dff03
 [SERVER_STOPPING][SERVER][INFO] Removing recipe for Inscriber Engineering Press
-[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <appliedenergistics2:material:15>: minetweaker.mc1102.formatting.FormattedMarkupString@289626d2
+[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <appliedenergistics2:material:15>: minetweaker.mc1102.formatting.FormattedMarkupString@5e768af5
 [SERVER_STOPPING][SERVER][INFO] Removing recipe for Inscriber Logic Press
-[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <appliedenergistics2:material:13>: minetweaker.mc1102.formatting.FormattedMarkupString@637bcb1b
+[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <appliedenergistics2:material:13>: minetweaker.mc1102.formatting.FormattedMarkupString@19d05829
 [SERVER_STOPPING][SERVER][INFO] Removing recipe for Inscriber Calculation Press
-[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <appliedenergistics2:material:19>: minetweaker.mc1102.formatting.FormattedMarkupString@7d3e3890
+[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <appliedenergistics2:material:19>: minetweaker.mc1102.formatting.FormattedMarkupString@73a1c15a
 [SERVER_STOPPING][SERVER][INFO] Removing recipe for Inscriber Silicon Press
 [SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
 [SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
