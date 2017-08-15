@@ -100,7 +100,7 @@
     "pools": [
       {
         "key": "NO_ENCHANT",
-        "samples": 5228,
+        "samples": 5274,
         "drops": []
       },
       {
@@ -281,19 +281,19 @@
     "pools": [
       {
         "key": "NO_ENCHANT",
-        "samples": 1430,
+        "samples": 1454,
         "drops": [
           {
             "item": "minecraft:rotten_flesh:0",
-            "count": 957,
+            "count": 974,
             "weights": [
               {
                 "stack_size": 2,
-                "weight": 497
+                "weight": 507
               },
               {
                 "stack_size": 1,
-                "weight": 460
+                "weight": 467
               }
             ]
           },
@@ -309,11 +309,11 @@
           },
           {
             "item": "xreliquary:mob_ingredient:6",
-            "count": 31,
+            "count": 32,
             "weights": [
               {
                 "stack_size": 1,
-                "weight": 31
+                "weight": 32
               }
             ]
           },
@@ -371,39 +371,39 @@
     "pools": [
       {
         "key": "NO_ENCHANT",
-        "samples": 109,
+        "samples": 127,
         "drops": [
           {
             "item": "minecraft:wool:0",
-            "count": 104,
+            "count": 121,
             "weights": [
               {
                 "stack_size": 1,
-                "weight": 104
+                "weight": 121
               }
             ]
           },
           {
             "item": "minecraft:mutton:0",
-            "count": 107,
+            "count": 125,
             "weights": [
               {
                 "stack_size": 1,
-                "weight": 59
+                "weight": 67
               },
               {
                 "stack_size": 2,
-                "weight": 48
+                "weight": 58
               }
             ]
           },
           {
             "item": "minecraft:wool:15",
-            "count": 1,
+            "count": 2,
             "weights": [
               {
                 "stack_size": 1,
-                "weight": 1
+                "weight": 2
               }
             ]
           },
@@ -441,11 +441,11 @@
     "pools": [
       {
         "key": "NO_ENCHANT",
-        "samples": 80,
+        "samples": 81,
         "drops": [
           {
             "item": "minecraft:beef:0",
-            "count": 80,
+            "count": 81,
             "weights": [
               {
                 "stack_size": 3,
@@ -453,7 +453,7 @@
               },
               {
                 "stack_size": 2,
-                "weight": 29
+                "weight": 30
               },
               {
                 "stack_size": 1,
@@ -463,7 +463,7 @@
           },
           {
             "item": "minecraft:leather:0",
-            "count": 52,
+            "count": 53,
             "weights": [
               {
                 "stack_size": 1,
@@ -471,7 +471,7 @@
               },
               {
                 "stack_size": 2,
-                "weight": 27
+                "weight": 28
               }
             ]
           }
@@ -667,29 +667,29 @@
     "pools": [
       {
         "key": "NO_ENCHANT",
-        "samples": 101,
+        "samples": 105,
         "drops": [
           {
             "item": "minecraft:chicken:0",
-            "count": 101,
+            "count": 105,
             "weights": [
               {
                 "stack_size": 1,
-                "weight": 101
+                "weight": 105
               }
             ]
           },
           {
             "item": "minecraft:feather:0",
-            "count": 63,
+            "count": 66,
             "weights": [
               {
                 "stack_size": 1,
-                "weight": 33
+                "weight": 35
               },
               {
                 "stack_size": 2,
-                "weight": 30
+                "weight": 31
               }
             ]
           }
@@ -717,11 +717,11 @@
     "pools": [
       {
         "key": "NO_ENCHANT",
-        "samples": 29,
+        "samples": 30,
         "drops": [
           {
             "item": "minecraft:porkchop:0",
-            "count": 29,
+            "count": 30,
             "weights": [
               {
                 "stack_size": 2,
@@ -733,7 +733,7 @@
               },
               {
                 "stack_size": 3,
-                "weight": 8
+                "weight": 9
               }
             ]
           }
@@ -861,33 +861,33 @@
     "pools": [
       {
         "key": "NO_ENCHANT",
-        "samples": 1126,
+        "samples": 1148,
         "drops": [
           {
             "item": "minecraft:arrow:0",
-            "count": 757,
+            "count": 773,
             "weights": [
               {
                 "stack_size": 2,
-                "weight": 387
+                "weight": 394
               },
               {
                 "stack_size": 1,
-                "weight": 370
+                "weight": 379
               }
             ]
           },
           {
             "item": "minecraft:bone:0",
-            "count": 731,
+            "count": 748,
             "weights": [
               {
                 "stack_size": 1,
-                "weight": 371
+                "weight": 380
               },
               {
                 "stack_size": 2,
-                "weight": 360
+                "weight": 368
               }
             ]
           },
@@ -1141,7 +1141,7 @@
     "pools": [
       {
         "key": "NO_ENCHANT",
-        "samples": 2,
+        "samples": 3,
         "drops": [
           {
             "item": "minecraft:rabbit_hide:0",
@@ -1187,7 +1187,7 @@
     "pools": [
       {
         "key": "NO_ENCHANT",
-        "samples": 99,
+        "samples": 100,
         "drops": [
           {
             "item": "minecraft:gunpowder:0",
@@ -1205,11 +1205,11 @@
           },
           {
             "item": "xreliquary:mob_ingredient:3",
-            "count": 3,
+            "count": 4,
             "weights": [
               {
                 "stack_size": 1,
-                "weight": 3
+                "weight": 4
               }
             ]
           },
@@ -1247,7 +1247,7 @@
     "pools": [
       {
         "key": "NO_ENCHANT",
-        "samples": 4,
+        "samples": 5,
         "drops": []
       },
       {
@@ -1297,7 +1297,7 @@
     "pools": [
       {
         "key": "NO_ENCHANT",
-        "samples": 9,
+        "samples": 10,
         "drops": []
       },
       {
