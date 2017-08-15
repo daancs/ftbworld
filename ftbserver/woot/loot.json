@@ -100,7 +100,7 @@
     "pools": [
       {
         "key": "NO_ENCHANT",
-        "samples": 5092,
+        "samples": 5228,
         "drops": []
       },
       {
@@ -195,15 +195,15 @@
     "pools": [
       {
         "key": "NO_ENCHANT",
-        "samples": 61,
+        "samples": 62,
         "drops": [
           {
             "item": "minecraft:slime_ball:0",
-            "count": 39,
+            "count": 40,
             "weights": [
               {
                 "stack_size": 2,
-                "weight": 21
+                "weight": 22
               },
               {
                 "stack_size": 1,
@@ -235,7 +235,7 @@
     "pools": [
       {
         "key": "NO_ENCHANT",
-        "samples": 13,
+        "samples": 15,
         "drops": [
           {
             "item": "thermalfoundation:material:770",
@@ -249,11 +249,11 @@
           },
           {
             "item": "thermalfoundation:material:2052",
-            "count": 5,
+            "count": 6,
             "weights": [
               {
                 "stack_size": 1,
-                "weight": 5
+                "weight": 6
               }
             ]
           }
@@ -281,19 +281,19 @@
     "pools": [
       {
         "key": "NO_ENCHANT",
-        "samples": 1351,
+        "samples": 1430,
         "drops": [
           {
             "item": "minecraft:rotten_flesh:0",
-            "count": 905,
+            "count": 957,
             "weights": [
               {
                 "stack_size": 2,
-                "weight": 466
+                "weight": 497
               },
               {
                 "stack_size": 1,
-                "weight": 439
+                "weight": 460
               }
             ]
           },
@@ -309,21 +309,21 @@
           },
           {
             "item": "xreliquary:mob_ingredient:6",
-            "count": 27,
+            "count": 31,
             "weights": [
               {
                 "stack_size": 1,
-                "weight": 27
+                "weight": 31
               }
             ]
           },
           {
             "item": "minecraft:skull:2",
-            "count": 29,
+            "count": 35,
             "weights": [
               {
                 "stack_size": 1,
-                "weight": 29
+                "weight": 35
               }
             ]
           },
@@ -861,38 +861,48 @@
     "pools": [
       {
         "key": "NO_ENCHANT",
-        "samples": 1040,
+        "samples": 1126,
         "drops": [
           {
             "item": "minecraft:arrow:0",
-            "count": 695,
+            "count": 757,
             "weights": [
               {
                 "stack_size": 2,
-                "weight": 354
+                "weight": 387
               },
               {
                 "stack_size": 1,
-                "weight": 341
+                "weight": 370
               }
             ]
           },
           {
             "item": "minecraft:bone:0",
-            "count": 668,
+            "count": 731,
             "weights": [
               {
                 "stack_size": 1,
-                "weight": 338
+                "weight": 371
               },
               {
                 "stack_size": 2,
-                "weight": 330
+                "weight": 360
               }
             ]
           },
           {
             "item": "minecraft:skull:0",
+            "count": 34,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 34
+              }
+            ]
+          },
+          {
+            "item": "xreliquary:mob_ingredient:0",
             "count": 30,
             "weights": [
               {
@@ -902,22 +912,12 @@
             ]
           },
           {
-            "item": "xreliquary:mob_ingredient:0",
-            "count": 29,
-            "weights": [
-              {
-                "stack_size": 1,
-                "weight": 29
-              }
-            ]
-          },
-          {
             "item": "minecraft:bow",
-            "count": 17,
+            "count": 21,
             "weights": [
               {
                 "stack_size": 1,
-                "weight": 17
+                "weight": 21
               }
             ]
           }
@@ -1071,7 +1071,7 @@
     "pools": [
       {
         "key": "NO_ENCHANT",
-        "samples": 50,
+        "samples": 53,
         "drops": [
           {
             "item": "minecraft:spider_eye:0",
@@ -1085,11 +1085,11 @@
           },
           {
             "item": "minecraft:string:0",
-            "count": 34,
+            "count": 35,
             "weights": [
               {
                 "stack_size": 1,
-                "weight": 16
+                "weight": 17
               },
               {
                 "stack_size": 2,
@@ -1099,11 +1099,11 @@
           },
           {
             "item": "minecraft:web:0",
-            "count": 1,
+            "count": 2,
             "weights": [
               {
                 "stack_size": 1,
-                "weight": 1
+                "weight": 2
               }
             ]
           },
@@ -1187,19 +1187,19 @@
     "pools": [
       {
         "key": "NO_ENCHANT",
-        "samples": 94,
+        "samples": 99,
         "drops": [
           {
             "item": "minecraft:gunpowder:0",
-            "count": 66,
+            "count": 69,
             "weights": [
               {
                 "stack_size": 1,
-                "weight": 30
+                "weight": 32
               },
               {
                 "stack_size": 2,
-                "weight": 36
+                "weight": 37
               }
             ]
           },
@@ -1215,11 +1215,11 @@
           },
           {
             "item": "minecraft:skull:4",
-            "count": 5,
+            "count": 6,
             "weights": [
               {
                 "stack_size": 1,
-                "weight": 5
+                "weight": 6
               }
             ]
           }
