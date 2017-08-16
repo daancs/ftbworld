@@ -1,62 +1,30 @@
-[00:49:37] [Server thread/INFO]: Starting minecraft server version 1.10.2
-[00:50:39] [Server thread/INFO]: Loading properties
-[00:50:39] [Server thread/INFO]: Default game type: SURVIVAL
-[00:50:39] [Server thread/INFO]: Generating keypair
-[00:50:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:50:39] [Server thread/INFO]: Using default channel type
-[00:50:52] [Server thread/INFO]: Preparing level "world"
-[00:50:53] [Server thread/INFO]: Preparing start region for level 0
-[00:50:55] [Server thread/INFO]: Preparing spawn area: 0%
-[00:50:56] [Server thread/INFO]: Done (3.757s)! For help, type "help" or "?"
-[00:51:12] [User Authenticator #1/INFO]: UUID of player Liillemannen is 2664e2b5-0043-4fca-9565-6e6199f9aeec
-[00:51:13] [Server thread/INFO]: Liillemannen[/192.168.1.1:58263] logged in with entity id 315 at (153.2274965287533, 103.0, 4611.588519693644)
-[00:51:13] [Server thread/INFO]: Liillemannen joined the game
-[00:51:35] [User Authenticator #2/INFO]: UUID of player ZweetDreams is ea3ba574-698b-421d-9ea9-c36343c5626d
-[00:51:36] [Server thread/INFO]: ZweetDreams[/213.66.189.43:53600] logged in with entity id 640 at (157.0280156239635, 103.0, 4612.125802649232)
-[00:51:36] [Server thread/INFO]: ZweetDreams joined the game
-[00:53:56] [Server thread/INFO]: [Liillemannen: Teleported Liillemannen to 0.5, 70.0, 0.5]
-[00:54:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5544ms behind, skipping 110 tick(s)
-[00:54:08] [Server thread/INFO]: [ZweetDreams: Teleported ZweetDreams to Liillemannen]
-[00:54:10] [Server thread/WARN]: Liillemannen moved too quickly! -0.7830097436174714,-1.0636826619177668,-10.502842530485779
-[00:54:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2300ms behind, skipping 46 tick(s)
-[00:54:52] [Server thread/WARN]: Liillemannen moved too quickly! 5.869411917285703,-0.7078900496961751,-8.245739545943934
-[00:54:57] [Server thread/WARN]: Liillemannen moved too quickly! 1.5130244919981521,-0.6741809997106429,-10.087139517552373
-[00:55:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6730ms behind, skipping 134 tick(s)
-[00:55:43] [Server thread/WARN]: Liillemannen moved too quickly! -4.452616572139505,-0.6741809997106429,-9.149131091919912
-[00:56:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2423ms behind, skipping 48 tick(s)
-[00:56:45] [Server thread/WARN]: Liillemannen was kicked for floating too long!
-[00:56:45] [Server thread/INFO]: Liillemannen lost connection: TextComponent{text='Flying is not enabled on this server', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:56:45] [Server thread/INFO]: Liillemannen left the game
-[00:56:56] [User Authenticator #3/INFO]: UUID of player Liillemannen is 2664e2b5-0043-4fca-9565-6e6199f9aeec
-[00:56:57] [Server thread/INFO]: Liillemannen[/192.168.1.1:58833] logged in with entity id 13113 at (25.79867735653949, 101.06404441830537, -1300.2805779979017)
-[00:56:57] [Server thread/INFO]: Liillemannen joined the game
-[00:58:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3071ms behind, skipping 61 tick(s)
-[00:58:43] [Server thread/WARN]: Liillemannen moved too quickly! -1.0105628650589722,-0.6741809997106429,-10.1488324494062
-[00:59:03] [Server thread/WARN]: Tried to over-fill a container
-[00:59:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2559ms behind, skipping 51 tick(s)
-[00:59:30] [Server thread/WARN]: Liillemannen moved too quickly! -2.5170407078264816,-0.6741809997106429,-9.885845887488358
-[00:59:32] [Server thread/WARN]: Liillemannen moved too quickly! -1.9084994949094494,-8.428107345108785,-6.5781282816737985
-[01:00:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2010ms behind, skipping 40 tick(s)
-[01:00:20] [Server thread/WARN]: Liillemannen moved too quickly! -1.120161678778686,-0.6741809997106429,-10.139823406996129
-[01:03:42] [Server thread/INFO]: [ZweetDreams: Given [Cactus] * 1 to ZweetDreams]
-[01:04:31] [Server thread/INFO]: [Liillemannen: Given [Aluminium Ingot] * 18 to Liillemannen]
-[01:04:42] [Server thread/INFO]: ZweetDreams lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:04:42] [Server thread/INFO]: ZweetDreams left the game
-[01:05:42] [Server thread/INFO]: [Liillemannen: Given [Circuit Fabricator] * 18 to Liillemannen]
-[01:05:59] [Server thread/INFO]: Liillemannen lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:05:59] [Server thread/INFO]: Liillemannen left the game
-[01:06:11] [Server thread/INFO]: Stopping the server
-[01:06:11] [Server thread/INFO]: Stopping server
-[01:06:11] [Server thread/INFO]: Saving players
-[01:06:11] [Server thread/INFO]: Saving worlds
-[01:06:11] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[01:06:11] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[01:06:11] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[01:06:11] [Server thread/INFO]: Saving chunks for level 'world'/Asteroids
-[01:06:11] [Server thread/INFO]: Saving chunks for level 'world'/Venus
-[01:06:11] [Server thread/INFO]: Saving chunks for level 'world'/MiningWorld
-[01:06:11] [Server thread/INFO]: Saving chunks for level 'world'/Deep Dark
-[01:06:11] [Server thread/INFO]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
-[01:06:11] [Server thread/INFO]: Saving chunks for level 'world'/Moon
-[01:06:11] [Server thread/INFO]: Saving chunks for level 'world'/simplevoidworld
-[01:06:11] [Server thread/INFO]: Saving chunks for level 'world'/Mars
+[12:49:10] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[12:50:05] [Server thread/INFO]: Loading properties
+[12:50:05] [Server thread/INFO]: Default game type: SURVIVAL
+[12:50:05] [Server thread/INFO]: Generating keypair
+[12:50:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:50:05] [Server thread/INFO]: Using default channel type
+[12:50:18] [Server thread/INFO]: Preparing level "world"
+[12:50:19] [Server thread/INFO]: Preparing start region for level 0
+[12:50:20] [Server thread/INFO]: Preparing spawn area: 65%
+[12:50:20] [Server thread/INFO]: Done (2.680s)! For help, type "help" or "?"
+[12:54:16] [User Authenticator #1/INFO]: UUID of player ZweetDreams is ea3ba574-698b-421d-9ea9-c36343c5626d
+[12:54:16] [Server thread/INFO]: ZweetDreams[/213.66.189.43:50698] logged in with entity id 651 at (158.25850912862253, 103.0, 4611.888129919774)
+[12:54:16] [Server thread/INFO]: ZweetDreams joined the game
+[12:59:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2575ms behind, skipping 51 tick(s)
+[13:30:07] [User Authenticator #2/INFO]: UUID of player Liillemannen is 2664e2b5-0043-4fca-9565-6e6199f9aeec
+[13:30:08] [Server thread/INFO]: Liillemannen[/192.168.1.1:64322] logged in with entity id 211889 at (158.14011244471467, 103.0, 4610.02778482741)
+[13:30:08] [Server thread/INFO]: Liillemannen joined the game
+[13:56:03] [Server thread/INFO]: [Liillemannen: Teleported Liillemannen to 0.5, 70.0, 0.5]
+[13:56:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2443ms behind, skipping 48 tick(s)
+[14:01:43] [Server thread/INFO]: [Liillemannen: Given [Diorite] * 1 to Liillemannen]
+[14:19:50] [Server thread/INFO]: [Liillemannen: Given [Glass Fibre Cable] * 1 to Liillemannen]
+[14:19:51] [Server thread/INFO]: [Liillemannen: Given [Glass Fibre Cable] * 1 to Liillemannen]
+[14:26:11] [Server thread/INFO]: [ZweetDreams: Teleported ZweetDreams to 0.5, 0.0, 70.5]
+[14:26:17] [Server thread/INFO]: [ZweetDreams: Teleported ZweetDreams to Liillemannen]
+[14:26:18] [Server thread/INFO]: ZweetDreams fell from a high place
+[14:26:40] [Server thread/INFO]: [ZweetDreams: Teleported ZweetDreams to 0.5, 70.0, 0.5]
+[14:30:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2261ms behind, skipping 45 tick(s)
+[14:35:48] [Server thread/WARN]: Fetching addPacket for removed entity
+[14:42:03] [Server thread/INFO]: Liillemannen lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[14:42:03] [Server thread/INFO]: Liillemannen left the game
